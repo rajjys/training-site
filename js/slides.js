@@ -46,7 +46,7 @@ const SLIDES = [
     shortTitle: 'Connexion',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '04-login.png',
+    screenshot: '04-login.jpg',
     screenshotLabel: 'Écran de connexion',
     bullets: [
       'Identifiant agent : <strong>6 chiffres</strong>',
@@ -63,7 +63,7 @@ const SLIDES = [
     shortTitle: 'Navigation',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '05-tabs.png',
+    screenshot: '05-tabs.jpg',
     screenshotLabel: 'Barre d\'onglets',
     table: [
       ['Accueil', 'Service, alertes, mission en cours'],
@@ -79,7 +79,7 @@ const SLIDES = [
     shortTitle: 'Mise en service',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '06-service.png',
+    screenshot: '06-service.jpg',
     screenshotLabel: 'Accueil — service activé',
     bullets: [
       'Bouton maintenu : <strong>ACTIVER LE SERVICE</strong> / <strong>DÉSACTIVER LE SERVICE</strong>',
@@ -104,7 +104,7 @@ const SLIDES = [
     shortTitle: 'Alerte',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '08-alerte.png',
+    screenshot: '08-alerte.jpg',
     screenshotLabel: 'Modal alerte mission',
     bullets: [
       'Alarme sonore + modal plein écran',
@@ -120,7 +120,7 @@ const SLIDES = [
     shortTitle: 'Mission en cours',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '09-intervention.png',
+    screenshot: '09-intervention.jpg',
     screenshotLabel: 'Intervention en cours',
     bullets: [
       '<strong>AFFICHER L\'ALERTE</strong> — mission pas encore acceptée',
@@ -136,7 +136,7 @@ const SLIDES = [
     shortTitle: 'En route',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '10-mission-active.png',
+    screenshot: '10-mission-active.jpg',
     screenshotLabel: 'Navigation GPS',
     bullets: [
       'Carte GPS plein écran + itinéraire',
@@ -153,7 +153,7 @@ const SLIDES = [
     shortTitle: 'Signalement',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '11-signalement.png',
+    screenshot: '11-signalement.jpg',
     screenshotLabel: 'Étapes Signalement',
     table: [
       ['En route', 'Direction vers le lieu'],
@@ -175,7 +175,7 @@ const SLIDES = [
     shortTitle: 'Victimes',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '12-victimes.png',
+    screenshot: '12-victimes.jpg',
     screenshotLabel: 'Choix mono / multi',
     bullets: [
       '<strong>Une seule victime</strong> : flux classique (appel citoyen)',
@@ -192,7 +192,7 @@ const SLIDES = [
     shortTitle: 'ABCDE',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '13-abcde.png',
+    screenshot: '13-abcde.jpg',
     screenshotLabel: 'Évaluation ABCDE',
     bullets: [
       '<strong>A</strong> — Voies aériennes',
@@ -215,7 +215,7 @@ const SLIDES = [
     shortTitle: 'Constantes',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '14-constantes.png',
+    screenshot: '14-constantes.jpg',
     screenshotLabel: 'Constantes vitales',
     bullets: [
       'Tension · Fréq. cardiaque · Sat. O₂ · Température · Fréq. resp. · Glycémie',
@@ -231,7 +231,7 @@ const SLIDES = [
     shortTitle: 'Premiers soins',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '15-soins.png',
+    screenshot: '15-soins.jpg',
     screenshotLabel: 'Premiers soins',
     bullets: [
       'Checklist des soins réalisés',
@@ -246,7 +246,7 @@ const SLIDES = [
     shortTitle: 'Évacuation',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '16-evacuation.png',
+    screenshot: '16-evacuation.jpg',
     screenshotLabel: 'Plan d\'évacuation',
     bullets: [
       '<strong>Évacuation vers un hôpital</strong> → suite du flux transport',
@@ -260,7 +260,7 @@ const SLIDES = [
     shortTitle: 'Affectation',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '17-hopital.png',
+    screenshot: '17-hopital.jpg',
     screenshotLabel: 'Sélection hôpital',
     bullets: [
       'Liste des hôpitaux proches + recherche',
@@ -275,7 +275,7 @@ const SLIDES = [
     shortTitle: 'Handoff',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '18-hopital-portail.png',
+    screenshot: '18-hopital-portail.jpg',
     screenshotLabel: 'Portail hôpital',
     table: [
       ['Demandes', 'Accepter / refuser votre demande'],
@@ -291,7 +291,7 @@ const SLIDES = [
     shortTitle: 'Transport',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '19-transport.png',
+    screenshot: '19-transport.jpg',
     screenshotLabel: 'Vers l\'hôpital',
     bullets: [
       'Navigation GPS vers la structure',
@@ -307,7 +307,7 @@ const SLIDES = [
     shortTitle: 'Clôture',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '20-cloture.png',
+    screenshot: '20-cloture.jpg',
     screenshotLabel: 'Clôture mission',
     bullets: [
       'Écran de clôture + synchronisation (<em>Clôture en cours…</em>)',
@@ -322,7 +322,7 @@ const SLIDES = [
     shortTitle: 'Communication',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '21-appels.png',
+    screenshot: '21-appels.jpg',
     screenshotLabel: 'Appels intégrés',
     table: [
       ['Centrale', 'Depuis l\'accueil ou le HUD mission'],
@@ -341,7 +341,7 @@ const SLIDES = [
     shortTitle: 'Journal',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '22-journal.png',
+    screenshot: '22-journal.jpg',
     screenshotLabel: 'Journal d\'intervention',
     bullets: [
       'Fil chronologique horodaté',
@@ -357,7 +357,7 @@ const SLIDES = [
     shortTitle: 'Carte',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '23-carte.png',
+    screenshot: '23-carte.jpg',
     screenshotLabel: 'Carte tactique',
     bullets: [
       'Incidents en cours',
@@ -373,7 +373,7 @@ const SLIDES = [
     shortTitle: 'Outils',
     category: 'app',
     layout: 'split-phone',
-    screenshot: '24-profil.png',
+    screenshot: '24-profil.jpg',
     screenshotLabel: 'Profil & outils',
     bullets: [
       '<strong>Protocoles médicaux</strong> — base documentaire RDC',

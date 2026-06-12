@@ -34,29 +34,29 @@ URL directe : `#slide-4` pour la slide 4.
 
 ## Captures d'écran
 
-Déposer les PNG dans `screenshots/`. **Les images manquantes n'empêchent pas la formation** — un placeholder s'affiche dans le mockup téléphone.
+Déposer les JPG dans `screenshots/`. **Les images manquantes n'empêchent pas la formation** — un placeholder s'affiche dans le mockup téléphone.
 
 | Fichier | Slide |
 |---------|-------|
-| `04-login.png` | Connexion |
-| `05-tabs.png` | Navigation |
-| `06-service.png` | Mise en service |
-| `08-alerte.png` | Alerte mission |
-| `09-intervention.png` | Intervention en cours |
-| `10-mission-active.png` | En route |
-| `11-signalement.png` | Signalement |
-| `12-victimes.png` | Victimes |
-| `13-abcde.png` | ABCDE |
-| `14-constantes.png` | Constantes |
-| `15-soins.png` | Premiers soins |
-| `16-evacuation.png` | Évacuation |
-| `17-hopital.png` | Affectation |
-| `18-hopital-portail.png` | Handoff hôpital |
-| `19-transport.png` | Transport |
-| `20-cloture.png` | Clôture |
-| `21-appels.png` | Communication |
-| `22-journal.png` | Journal |
-| `23-carte.png` | Carte tactique |
-| `24-profil.png` | Profil (optionnel) |
+| `04-login.jpg` | Connexion |
+| `05-tabs.jpg` | Navigation |
+| `06-service.jpg` | Mise en service |
+| `08-alerte.jpg` | Alerte mission |
+| `09-intervention.jpg` | Intervention en cours |
+| `10-mission-active.jpg` | En route |
+| `11-signalement.jpg` | Signalement |
+| `12-victimes.jpg` | Victimes |
+| `13-abcde.jpg` | ABCDE |
+| `14-constantes.jpg` | Constantes |
+| `15-soins.jpg` | Premiers soins |
+| `16-evacuation.jpg` | Évacuation |
+| `17-hopital.jpg` | Affectation |
+| `18-hopital-portail.jpg` | Handoff hôpital |
+| `19-transport.jpg` | Transport |
+| `20-cloture.jpg` | Clôture |
+| `21-appels.jpg` | Communication |
+| `22-journal.jpg` | Journal |
+| `23-carte.jpg` | Carte tactique |
+| `24-profil.jpg` | Profil (optionnel) |
 
-Format recommandé : PNG portrait, capture native du téléphone.
+Format recommandé : JPG portrait, capture native du téléphone.
